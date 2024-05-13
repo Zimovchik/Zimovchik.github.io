@@ -41,7 +41,6 @@
 
 
 * ### Other
-    CI/CD via GitHub Action, Services, Scripting
     <p align="left">
       <img src="assets/icons/git-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Git">
       <img src="assets/icons/github-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="GitHub">
@@ -101,7 +100,6 @@
 
 
 * ### Другое
-    CI/CD via GitHub Action, Services, Scripting
     <p align="left">
       <img src="assets/icons/git-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Git">
       <img src="assets/icons/github-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="GitHub">
