@@ -1,194 +1,114 @@
 <section id="content">
 <div markdown="1">
 
-# <a id="works" href="#works">👨🏻‍💻 Work experience (4 years)</a>
+# <a id="works" href="#works">👨🏻‍💻 Experience</a>
 
-* ### Teacher of neural networks courses
+* ### Internship in my faculties' student union
 
-    *2020-2022 Lomonosov Moscow State University*
+    *2024 [Profcomff](https://github.com/profcomff) at MSU Faculty of Physics*
 
-    I teach a one-year Neural Networks course for postgraduate MSU students. [The course](https://msu.ai) covers a wide range of neural networks types, deals with solving various problems. In the second part of the course, students did implement neural networks in their scientific work under my guidance
-
-* ### Deep Learning Engineer, Python developer
-
-    *2020-2024 [Center of Engineering Physics](https://engineering.phys.msu.ru/ru/) at Lomonosov Moscow State University*
-
-    Working on “EyePoint P10” - a signature analysis system. EyePoint P10 aims to detect faulty electronic components on printed circuit boards. My responsibilities are write Python code, modules, fix bugs, working on architecture and use deep neural networks for electronic components recognition.
-
-* ### DL-engineer
-
-    *2023 Moscow Institute of Physics and Technology*
-
-    For a short time I worked in a [laboratory](https://mipt.ru/rse) engaged in the analysis of echolocation images. My main task was to process data and apply object detection models such as YOLO.
-
-* ### Ideological mastermind of the faculty application
-
-    *2021-2023 MSU Faculty of Physics*
-
-    With friends, created a community of volunteer programmers of MSU Faculty of Physics. With team, we developed [PWA application](https://app.profcomff.com/apps) for students and teachers of the faculty, which is used by almost the entire faculty. The application consists of many modules covering a large stack of technologies like: databases, servers, APIs, auth, frontend, backend, analytics.
+    I am now attending my internship at Profcoff mainly working with data bases and data organising. I'm learning Airflow and Alembic.
+ 
+* ### Developing my own library for experiment analysis
+   *[PhysPrak](https://github.com/Zimovchik/PhysPrak)*
+  
+    On my faculty we have general physical practical training sessions and fitting and sometimes it takes quite sometime to do all the analysis of the data you measured. So i decided to develop some functions to make this process simpler and faster. The used technologies are:sympy, pandas and others. I'm only starting with it. In the future i am going to add automatic graphics creation and fitting as well as it's transfer to pdf. 
 
 # <a id="education" href="#education">🎓 Education</a>
 
 * ### Lomonosov Moscow State University
-    (2018-2022, Moscow) Faculty of Physics, department of particles physics
+    *1st year student of MSU Faculty of Physics*
 
-* ### Moscow Institute of Physics and Technology
-    (2022-2024, Moscow) Applied Mathematics and Computer Science, Department of Technologies of Digital Transformation
+* ### Yandex lyceum
+
+    *2020-2022 [Yandex Lyceum](https://lyceum.yandex.ru/)*
+
+    Graduated from Yandex lyceum which taught me the basics of python and OOP as well as basics of web development on python(Flask framework), data bases(SQLlite) and some other technologies.
 
 # <a id="skills" href="#skills">🛠️ Skills</a>
 
-* ### Primary stack: 
-    Python, CV/ML/DL, Analytics, Backend
+* ### Stack: 
     <p align="left">
       <img src="assets/icons/python.svg" width=35px style="padding-right:5px;" draggable="false" title="Python">
       <img src="assets/icons/jupyter.svg" width=25px style="padding-right:5px;" draggable="false" title="Jupyter Notebook">
-      <img src="assets/icons/pytorch.svg" width=35px style="padding-right:5px;" draggable="false" title="PyTorch">
-      <img src="assets/icons/tensorflow.svg" width=35px style="padding-right:5px;" draggable="false" title="TensorFlow">
       <img src="assets/icons/numpy-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="NumPy">
       <img src="assets/icons/matplotlib.svg" width=35px style="padding-right:5px;" draggable="false" title="Matplotlib">
       <img src="assets/icons/pandas-icon.svg" width=30px style="padding-right:5px;" draggable="false" title="Pandas">
-      <img src="assets/icons/opencv.svg" width=30px style="padding-right:5px;" draggable="false" title="OpenCV">
-      <img src="assets/icons/fastapi.svg" width=35px style="padding-right:5px;" draggable="false" title="FastAPI">
-    </p>
-
-* ### Secondary stack
-    SQL, Deploy, Front, UI, embedded
-    <p align="left">
       <img src="assets/icons/postgresql.svg" width=35px style="padding-right:5px;" draggable="false" title="PostgreSQL">
       <img src="assets/icons/docker-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Docker">
-      <img src="assets/icons/c-plusplus.svg" width=35px style="padding-right:5px;" draggable="false" title="C++">
-      <img src="assets/icons/javascript.svg" width=35px style="padding-right:5px;" draggable="false" title="Javascript">    
-      <img src="assets/icons/qt.svg" width=35px style="padding-right:5px;" draggable="false" title="Qt">
-      <img src="assets/icons/html-5.svg" width=35px style="padding-right:5px;" draggable="false" title="HTML">
-      <img src="assets/icons/css-3.svg" width=35px style="padding-right:5px;" draggable="false" title="CSS">
-      <img src="assets/icons/bootstrap.svg" width=35px style="padding-right:5px;" draggable="false" title="Boootstrap">
-      <img src="assets/icons/graphql.svg" width=35px style="padding-right:5px;" draggable="false" title="GraphQL">
-      <img src="assets/icons/arduino.svg" width=40px style="padding-right:5px;" draggable="false" title="Arduino">
+       <img src="assets/icons/Sqlite-square-icon.svg" width=35px style="padding-right:5px;" draggable="false" title SQLite>
   </p>
 
 
 * ### Other
     CI/CD via GitHub Action, Services, Scripting
     <p align="left">
-      <img src="assets/icons/jenkins.svg" width=35px style="padding-right:5px;" draggable="false" title="Jenkins">
-      <img src="assets/icons/vagrant.svg" width=35px style="padding-right:5px;" draggable="false" title="Vagrant">
-      <img src="assets/icons/linux-tux.svg" width=35px style="padding-right:5px;" draggable="false" title="Linux">
-      <img src="assets/icons/bash.svg" width=35px style="padding-right:5px;" draggable="false" title="Bash">
       <img src="assets/icons/git-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Git">
-      <img src="assets/icons/mercurial.svg" width=35px style="padding-right:5px;" draggable="false" title="Mercurial">
       <img src="assets/icons/github-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="GitHub">
-      <img src="assets/icons/gitlab.svg" width=35px style="padding-right:5px;" draggable="false" title="Gitlab">
     </p>
-
-
-# <a id="projects" href="#projects">🧩 Open source projects </a>
-* **[Neural networks course](https://github.com/EPC-MSU/EduNet-lectures)** - NN course for postgraduate MSU students
-* **[Faculty application](https://github.com/profcomff)** - Timetable, printers, lectures, bots, services
-* **[EPC-MSU/epdetection](https://github.com/EPC-MSU/epdetection)** - Module to detect PCB components by neural network
-* **[GitHub Issue Telegram Bot](https://github.com/annndruha/issue-github-telegram-bot)** - Bot for creation GitHub issue straight from Telegram group chat
-* **[PulchraBookmarks](https://chrome.google.com/webstore/detail/pulchra-bookmarks/pknkgclggganidoalifaagfjikhcdolb)** - Chrome extension for newtab
-* **[Monitoring API](https://github.com/SmartThinksDIY/DHT11-api)** - API Server for collect data from measurements devices
-
 # <a id="contacts" href="#contacts">📧 Contacts</a>
-* Mail: [annndruha.github@gmail.com](mailto:annndruha.github@gmail.com)
-* Profile on [GitHub](https://github.com/annndruha)
+* Mail: [z4haroff.ivan@yandex.com](z4haroff.ivan@yandex.com)
+* Profile on [GitHub](https://github.com/Zimovchik)
 
 </div>
 </section>
 <section id="second_content">
 <div markdown="1">
 
-# <a id="works_ru" href="#works_ru">👨🏻‍💻 Опыт работы (4 года)</a>
+# <a id="works_ru" href="#works_ru">👨🏻‍💻 Опыт</a>
 
-* ### Преподаватель курса по нейронным сетям
+* ### Стажировка в команде разработки профкома Физического факультета МГУ
 
-    *2020-2022 МГУ имени М.В.Ломоносова*
+    *2024 [Profcomff](https://github.com/profcomff) МГУ физический факультет*
 
-    Преподавал годовой курс по нейронным сетям магистрам и аспирантам МГУ. [Курс](https://msu.ai) охватывал широкий спектр типов нейронных сетей и методов их обучения, а так же обширную практику. Во второй половине года выступал консультантом при написании аспирантами и магистрами научных статей с использованием нейронных сетей.
-
-* ### Python-разработчик, инженер DL
-
-    *2020-2024 [Лаборатория инженерной физики МГУ](https://engineering.phys.msu.ru/ru/)*
-
-    Разрабатывал ПО для системы сигнатурного анализа компонентов на печатных платах. Написал модуль распознавания основанный на нейронных сетях, улучшал софт и исправлял ошибки системы, в том числе ошибки hardware-части. ПО было написано на Python с фреймворком Qt.
-
-* ### Deep Learning инженер
-
-    *2023 Московский физико-технический институт*
+    Сейчас прохожу стажировку в команде разработки приложения твой ФФ, занимаюсь работой с данными. Изучаю Alembic и Airflow.
+   
+* ### Разрабатываю свою библиотеку для обработки данных эксперимента
+   *[PhysPrak](https://github.com/Zimovchik/PhysPrak)*
   
-    Некоторое время работал в [лаборатории](https://mipt.ru/rse), занимающейся, в том числе анализом эхолокационных изображений. Разрабатывал систему автоматизации для помощи оператору эхолокатора. Система автоматизации на YOLO помогала оператору быстрее и точнее распознавать объекты на снимках.
+    На моем факультете есть общий физический практикум, где требуется много обработки данных, такой как фиттинг функций, расчет погрешностей и анализ результатов. Для упрощения этого процесса я недавно занялся разработкой набора фукнций и технологий. Технологии использующиеся в проекте: sympy, pandas. В будущем планируется добавление функций фиттинга и построения графиков а также конвертация всего в презентабельный вид pdf.
 
-* ### Один из основателей факультетского приложения
-
-    *2021-2023 МГУ физический факультет*
-
-    В команде с энтузиастами создали сообщество разработчиков-студентов. С командой разработали PWA [приложение для студентов](https://app.profcomff.com/apps), которым пользуется практически каждый студент физического факультета (~2500 человек). Приложение состоит из множества составных частей, использующих большое количество современных технологий, таких как Type-script, Fast-API, Python, Kafka, PostgreSQL и другие.
 
 # <a id="education_ru" href="#education_ru">🎓 Образование</a>
 
-* ### (МГУ) Московский государственный университет имени М.В.Ломоносова
-    (2018-2022, Москва) Физический факультет, отделение ядерной физики
+* ### МГУ им.Ломоносова
+   *2023-2029 МГУ Физический факультет*
+  
+    Учусь на физическом факультете 1 год.
 
-* ### (МФТИ) Московский физико-технический институт
-    (2022-2024, Москва) Физтех-школа прикладной математики и информатики
+* ### Яндекс Лицей
 
-# <a id="skills_ru" href="#skills_ru">🛠️ Навыки</a>
+    *2020-2022 [Яндекс лицей](https://lyceum.yandex.ru/)*
+  
+   Закончил Яндекс лицей, где мы изучили основы промышленного программирования на python, основы ООП, основы фреймворка Flask, библиотек PyQt, PyGame и других, а также работу с базами данных(SQLite) и другие технологии
+    
+  
 
-* ### Основные навыки
-    Python, CV/ML/DL, аналитика, бэкенд
+
+# <a id="skills" href="#skills">🛠️ Навыки</a>
+
+* ### Навыки: 
     <p align="left">
       <img src="assets/icons/python.svg" width=35px style="padding-right:5px;" draggable="false" title="Python">
       <img src="assets/icons/jupyter.svg" width=25px style="padding-right:5px;" draggable="false" title="Jupyter Notebook">
-      <img src="assets/icons/pytorch.svg" width=35px style="padding-right:5px;" draggable="false" title="PyTorch">
-      <img src="assets/icons/tensorflow.svg" width=35px style="padding-right:5px;" draggable="false" title="TensorFlow">
       <img src="assets/icons/numpy-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="NumPy">
       <img src="assets/icons/matplotlib.svg" width=35px style="padding-right:5px;" draggable="false" title="Matplotlib">
       <img src="assets/icons/pandas-icon.svg" width=30px style="padding-right:5px;" draggable="false" title="Pandas">
-      <img src="assets/icons/opencv.svg" width=30px style="padding-right:5px;" draggable="false" title="OpenCV">
-      <img src="assets/icons/fastapi.svg" width=35px style="padding-right:5px;" draggable="false" title="FastAPI">
-    </p>
-
-* ### Дополнительные навыки
-    SQL, нативные приложения на Qt, сайты, микроконтроллеры
-    <p align="left">
       <img src="assets/icons/postgresql.svg" width=35px style="padding-right:5px;" draggable="false" title="PostgreSQL">
       <img src="assets/icons/docker-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Docker">
-      <img src="assets/icons/c-plusplus.svg" width=35px style="padding-right:5px;" draggable="false" title="C++">
-      <img src="assets/icons/javascript.svg" width=35px style="padding-right:5px;" draggable="false" title="Javascript">    
-      <img src="assets/icons/qt.svg" width=35px style="padding-right:5px;" draggable="false" title="Qt">
-      <img src="assets/icons/html-5.svg" width=35px style="padding-right:5px;" draggable="false" title="HTML">
-      <img src="assets/icons/css-3.svg" width=35px style="padding-right:5px;" draggable="false" title="CSS">
-      <img src="assets/icons/bootstrap.svg" width=35px style="padding-right:5px;" draggable="false" title="Boootstrap">
-      <img src="assets/icons/graphql.svg" width=35px style="padding-right:5px;" draggable="false" title="GraphQL">
-      <img src="assets/icons/arduino.svg" width=40px style="padding-right:5px;" draggable="false" title="Arduino">
+       <img src="assets/icons/Sqlite-square-icon.svg" width=35px style="padding-right:5px;" draggable="false" title SQLite>
   </p>
 
 
 * ### Другое
-    CI/CD через GitHub Action, оси, автоматизация
+    CI/CD via GitHub Action, Services, Scripting
     <p align="left">
-      <img src="assets/icons/jenkins.svg" width=35px style="padding-right:5px;" draggable="false" title="Jenkins">
-      <img src="assets/icons/vagrant.svg" width=35px style="padding-right:5px;" draggable="false" title="Vagrant">
-      <img src="assets/icons/linux-tux.svg" width=35px style="padding-right:5px;" draggable="false" title="Linux">
-      <img src="assets/icons/bash.svg" width=35px style="padding-right:5px;" draggable="false" title="Linux">
       <img src="assets/icons/git-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Git">
-      <img src="assets/icons/mercurial.svg" width=35px style="padding-right:5px;" draggable="false" title="Mercurial">
       <img src="assets/icons/github-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="GitHub">
-      <img src="assets/icons/gitlab.svg" width=35px style="padding-right:5px;" draggable="false" title="Gitlab">
     </p>
-
-
-# <a id="projects_ru" href="#projects_ru">🧩 Публичные проекты </a>
-* **[Neural networks course](https://github.com/EPC-MSU/EduNet-lectures)** - Курс для аспирантов и магистров МГУ
-* **[Faculty application](https://github.com/profcomff)** - Приложение для студентов физического факультета МГУ
-* **[EPC-MSU/epdetection](https://github.com/EPC-MSU/epdetection)** - Модуль распознавания компонентов на печатной плате
-* **[Github Issue Telegram Bot](https://github.com/annndruha/issue-github-telegram-bot)** - Бот для создания issue в GitHub из чата в Telegram
-* **[PulchraBookmarks](https://chrome.google.com/webstore/detail/pulchra-bookmarks/pknkgclggganidoalifaagfjikhcdolb)** - Расширение-закладки для Chrome
-* **[Monitoring API](https://github.com/SmartThinksDIY/DHT11-api)** - API-сервер для сбора данных с датчиков температуры
-
-# <a id="contacts_ru" href="#contacts_ru">📧 Контакты</a>
-* Почта: [annndruha.github@gmail.com](mailto:annndruha.github@gmail.com)
-* Профиль на [GitHub](https://github.com/annndruha)
+# <a id="contacts" href="#contacts">📧 Contacts</a>
+* Почта: [z4haroff.ivan@yandex.com](z4haroff.ivan@yandex.com)
+* Профиль на [GitHub](https://github.com/Zimovchik)
 
 </div>
 </section>
