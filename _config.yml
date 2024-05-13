@@ -11,7 +11,7 @@ location: Moscow, Russia
 language: Russian, English
 bt_mailto: <a href="mailto:z4haroff.ivan@yandex.com">Send me <strong>Mail</strong></a>
 bt_github: <a href="https://github.com/Zimovchik">Profile <strong>GitHub</strong></a>
-bt_pdf: <a href="_">Download <strong>CV PDF</strong></a>
+bt_pdf: <a href="https://github.com/Zimovchik/Zimovchik.github.io/blob/11e3f88b3ca3fca126cd454f691497b31ef43b22/assets/zakharov_en.pdf">Download <strong>CV PDF</strong></a>
 
 second_language_code: ru
 second_fullname: Иван Захаров
@@ -22,7 +22,7 @@ second_bt_mailto: <a href="mailto:z4haroff.ivan@yandex.com">Написать н�
 second_bt_github: <a href="https://github.com/Zimovchik">Профиль <strong>GitHub</strong></a>
 second_bt_pdf: <a href="_">Скачать резюме<strong>PDF</strong></a>
 
-show_branding: false
+show_branding: true
 branding_link: 
 branding_link_text: 
 branding_favicon: 
