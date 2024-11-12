@@ -3,11 +3,11 @@
 
 # <a id="works" href="#works">👨🏻‍💻 Experience</a>
 
-* ### Internship in my faculties' student union
+* ### Team member of Viribus Unitis
 
-    *2024 [Profcomff](https://github.com/profcomff) at MSU Faculty of Physics*
+    *2024-now [Profcomff](https://github.com/profcomff) at MSU Faculty of Physics*
 
-    I am now attending my internship at Profcoff mainly working with data bases and data organising. I'm learning Airflow and Alembic.
+    Working on dwh and backend in our super app.
  
 * ### Developing my own library for experiment analysis
    *[PhysPrak](https://github.com/Zimovchik/PhysPrak)*
@@ -17,7 +17,7 @@
 # <a id="education" href="#education">🎓 Education</a>
 
 * ### Lomonosov Moscow State University
-    *1st year student of MSU Faculty of Physics*
+    *2nd year student of MSU Faculty of Physics*
 
 * ### Yandex lyceum
 
@@ -56,12 +56,10 @@
 
 # <a id="works_ru" href="#works_ru">👨🏻‍💻 Опыт</a>
 
-* ### Стажировка в команде разработки профкома Физического факультета МГУ
+* ### Команде разработки Viribus Unitis(профком Физического факультета МГУ)
 
     *2024 [Profcomff](https://github.com/profcomff) МГУ физический факультет*
-
-    Сейчас прохожу стажировку в команде разработки приложения твой ФФ, занимаюсь работой с данными. Изучаю Alembic и Airflow.
-   
+  Работаю над DWH и бэкендом супер аппа Твой ФизФак
 * ### Разрабатываю свою библиотеку для обработки данных эксперимента
    *[PhysPrak](https://github.com/Zimovchik/PhysPrak)*
   
@@ -73,7 +71,7 @@
 * ### МГУ им.Ломоносова
    *2023-2029 МГУ Физический факультет*
   
-    Учусь на физическом факультете 1 год.
+    Учусь на физическом факультете 2 год.
 
 * ### Яндекс Лицей
 
